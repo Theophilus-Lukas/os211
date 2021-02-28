@@ -6,5 +6,5 @@ Hello!
 
 This is {{ site.title }} and I am {{ site.author }}, {{ site.address }}.
 
-Qapla, Jolan Tru!
+Flectere si nequeo superos, Acheronta movebo!
 
