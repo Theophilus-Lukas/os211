@@ -12,3 +12,4 @@ ZCZC W01 30 L03 GitHub related
 ZCZC W01 100 L22 YouTube: study, etc.
 ZCZC W01 100 L23 Discord: discussion, etc.
 ZCZC W01 100 L05 GSGS related
+ZCZC W01 180 L11 Assignment #1
