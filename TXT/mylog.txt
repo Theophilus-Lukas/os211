@@ -13,3 +13,8 @@ ZCZC W01 100 L22 YouTube: study, etc.
 ZCZC W01 100 L23 Discord: discussion, etc.
 ZCZC W01 100 L05 GSGS related
 ZCZC W01 180 L11 Assignment #1
+ZCZC W02 200 L12 Assignment #2
+ZCZC W02 100 L23 Discord disscussion
+ZCZC W02 100 L02 ZOOM
+ZCZC W02 30 L09 Asked about an error
+ZCZC W02 100 L05 Resolving an error
