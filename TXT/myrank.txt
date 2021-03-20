@@ -1,4 +1,7 @@
 # TOP 10 Rank
 ZCZC W01 X1non
 ZCZC W01 yosuahutagalung
-ZCZC W01 veniche
+ZCZC W01 Veniche
+ZCZC W02 vandhya
+ZCZC W02 yosuahutagalung
+ZCZC W02 Veniche
