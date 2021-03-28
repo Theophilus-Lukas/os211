@@ -22,3 +22,8 @@ ZCZC W03 100 L02 ZOOM related
 ZCZC W03 180 L13 Assignment 3
 ZCZC W03 180 L05 GSGS
 ZCZC W03 120 L23 Discord
+ZCZC W04 100 L02 ZOOM class
+ZCZC W04 100 L14 Assignment 4
+ZCZC W04 120 L23 Discord disccussions
+ZCZC W04 120 L25 Refreshim memory on C
+ZCZC W04 120 L05 Searchig for material for top 10 of W04

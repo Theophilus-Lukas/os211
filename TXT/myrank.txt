@@ -5,3 +5,6 @@ ZCZC W01 Veniche
 ZCZC W02 vandhya
 ZCZC W02 yosuahutagalung
 ZCZC W02 Veniche
+ZCZC W03 X1non
+ZCZC W03 Trigonometr1
+ZCZC W03 tsanaativa
