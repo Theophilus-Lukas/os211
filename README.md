@@ -20,7 +20,7 @@ GITHUB PAGE : <br>
 [W07](https://theophilus-lukas.github.io/os211/W07/) | 
 [W08](https://theophilus-lukas.github.io/os211/W08/) | 
 [W09](https://theophilus-lukas.github.io/os211/W09/) | 
-[W10](https://theophilus-lukas.github.io/os211/W10/) | 
+[W10](https://theophilus-lukas.github.io/os211/W10/)
 
 Weekly Top 10 Repo: <br>
 [W01R](https://github.com/Theophilus-Lukas/os211/blob/master/w01.md) | 
@@ -32,4 +32,4 @@ Weekly Top 10 Repo: <br>
 [W07R](https://github.com/Theophilus-Lukas/os211/blob/master/w07.md) | 
 [W08R](https://github.com/Theophilus-Lukas/os211/blob/master/w08.md) | 
 [W09R](https://github.com/Theophilus-Lukas/os211/blob/master/w09.md) | 
-[W10R](https://github.com/Theophilus-Lukas/os211/blob/master/w10.md) | 
+[W10R](https://github.com/Theophilus-Lukas/os211/blob/master/w10.md)
