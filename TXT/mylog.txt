@@ -27,3 +27,7 @@ ZCZC W04 100 L14 Assignment 4
 ZCZC W04 120 L23 Discord disccussions
 ZCZC W04 120 L25 Refreshim memory on C
 ZCZC W04 120 L05 Searchig for material for top 10 of W04
+ZCZC W05 180 L15 Assignment 5
+ZCZC W05 180 L25 Learned more C
+ZCZC W05 100 L02 ZOOM Class
+ZCZC W05 100 L05 Googled for error
