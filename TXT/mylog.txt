@@ -31,3 +31,6 @@ ZCZC W05 180 L15 Assignment 5
 ZCZC W05 180 L25 Learned more C
 ZCZC W05 100 L02 ZOOM Class
 ZCZC W05 100 L05 Googled for error
+ZCZC W06 100 L02 ZOOM
+ZCZC W06 200 L16 Assignment 6
+ZCZC W06 200 L25 learned more C
