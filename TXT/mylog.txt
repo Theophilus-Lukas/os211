@@ -34,3 +34,7 @@ ZCZC W05 100 L05 Googled for error
 ZCZC W06 100 L02 ZOOM
 ZCZC W06 200 L16 Assignment 6
 ZCZC W06 200 L25 learned more C
+ZCZC W07 100 L02 ZOOM
+ZCZC W07 200 L17 Assignment 7
+ZCZC W07 300 L25 Played aound with C
+ZCZC W07 100 L23 Discord Discussion
