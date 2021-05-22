@@ -20,4 +20,6 @@ ZCZC W06 X1non
 ZCZC W07 vandhya
 ZCZC W07 Trigonometr1
 ZCZC W07 Veniche
-
+ZCZC W08 X1non
+ZCZC W08 yosuahutagalung
+ZCZC W08 vandhya
